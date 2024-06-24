@@ -1,0 +1,58 @@
+{
+  "appInfo" : {
+    "build" : "232.10227.9",
+    "buildDate" : "2023-11-11T17:14:08.149Z[UTC]",
+    "productCode" : "WS",
+    "generated" : "2024-06-24T16:36:37.1507326Z",
+    "os" : "Windows 11.0",
+    "runtime" : "JetBrains s.r.o. 17.0.9 17.0.9+7-b1000.46"
+  },
+  "runtimeInfo" : {
+    "maxMemory" : 2147483648,
+    "numberOfProcessors" : 8,
+    "maxNumberOfIndexingThreads" : 7,
+    "maxSizeOfFileForIntelliSense" : 2560000,
+    "maxSizeOfFileForContentLoading" : 20971520
+  },
+  "type" : "Scanning",
+  "projectIndexingActivityHistory" : {
+    "projectName" : "my-new-project",
+    "times" : {
+      "scanningReason" : "changes in: \"Synthetic library 'Project @types/*'\"",
+      "scanningType" : "PARTIAL",
+      "scanningId" : 12,
+      "creatingIteratorsTime" : 0,
+      "collectingIndexableFilesTime" : 65844100,
+      "delayedPushPropertiesStageTime" : 0,
+      "indexExtensionsTime" : 0,
+      "dumbWallTimeWithPauses" : 0,
+      "dumbWallTimeWithoutPauses" : 0,
+      "updatingStart" : "2024-06-24T16:36:37.0817144Z",
+      "updatingEnd" : "2024-06-24T16:36:37.1507326Z",
+      "totalWallTimeWithPauses" : 68493200,
+      "wallTimeOnPause" : 0,
+      "wasInterrupted" : false,
+      "totalWallTimeWithoutPauses" : 68493200
+    },
+    "fileCount" : {
+      "numberOfFileProviders" : 1,
+      "numberOfScannedFiles" : 100,
+      "numberOfFilesIndexedByInfrastructureExtensionsDuringScan" : 0,
+      "numberOfFilesScheduledForIndexingAfterScan" : 0
+    },
+    "scanningStatistics" : [ {
+      "providerName" : "Synthetic library 'Project @types/*'",
+      "numberOfScannedFiles" : 100,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 20981500,
+      "scanningTime" : 22094400,
+      "timeProcessingUpToDateFiles" : 3105800,
+      "timeUpdatingContentLessIndexes" : 39500,
+      "timeIndexingWithoutContentViaInfrastructureExtension" : 0,
+      "roots" : [ ]
+    } ]
+  }
+}
